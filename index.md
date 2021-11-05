@@ -128,7 +128,7 @@ Podem ser verificados pelo farol online.
 
 [Farol Online](http://10.121.241.11/apoio_informacao/farol/farol_online/index.php)
 
-![farol_01](C:\Disco D\Gabriel_OI\Pages\farol_01.PNG)
+![farol_01](farol_01.PNG)
 
 Selecionar em **CLASSIFICAÇÃO** todos.
 
