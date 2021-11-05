@@ -30,9 +30,7 @@ Abra em uma guia separado do navegador, dentro do Teams esta dando erro.
 
 <hr>
 
-## MONITORAÇÂO OI
-
-#### **Os grupos no WhatsApp**
+## **Os grupos no WhatsApp**
 
 São somente para a **ABERTURA** e **TS** são somente para isso.
 
@@ -40,7 +38,8 @@ São somente para a **ABERTURA** e **TS** são somente para isso.
 
 Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratativas não precisamos responder.
 
-<hr>
+
+
 
 ## FLEX4
 
@@ -54,13 +53,15 @@ O restante dos alarmes como o "**INTEFACE | STATUS - INTERFACE DOWN** “ podemo
 
 <hr>
 
+
 **Contatos do CPD**
 
  Todos os contatos e anotações sobre os clientes estão no campo NOTES/Flex4.
 
 ![contato_notes](flex_notes.png)
 
-<hr>
+
+
 
 ## OEMP
 
@@ -70,7 +71,8 @@ Porem, **devemos fazer o TS normalmente.** Se o cliente confirmar a energia e re
 
 Em caso de pegar trecho da V.tal mandar para o posto TRIAV conforme procedimento.
 
-<hr>
+
+
 
 ## TRIAV
 
@@ -80,9 +82,10 @@ Posto da V.TAL para a triagem dos circuitos de gerencia SDH. Esta com **erro na 
 
 ![tramitar_para_o_posto_triav](tramitar_para_o_posto_triav.png)
 
-<hr>
 
-## O Posto FCR o outros
+
+
+## O Posto FCR e outros
 
 - **FCR - Pendente TS**
 
@@ -104,7 +107,7 @@ Os casos no posto FRC podem ser vizualizados para ferramenta oi360.
 
 [Link para a ferramenta Oi360](http://10.111.26.12/oi360s/grid?operacional)
 
-Em visão selecioanr a opção operacional.
+Em visão selecionar a opção operacional.
 
 ![selecionar_posto_FCR_oi360](selecionar_posto_FCR_oi360.PNG)
 
@@ -118,7 +121,7 @@ Em visão selecioanr a opção operacional.
 6. Todo caso em que for necessário encaminhar ao TRIAV, devemos tramitar para estação **RJO CAS**.
 7. Antes de mandar para frente, confirmar se o reparo estava na pendencia e se não tiver, retroagir para não ir para campo vencido.
 8. Reparos abertos pelo robo podem ser encaminhados para frente sem contato com o cliente.
-9. Veirificar os casos novos para saber se o rodo fez a abertura de algum caso critico ou concentrador.
+9. Veirificar os casos novos para saber se o robo fez a abertura de algum caso critico ou concentrador.
 
 - **FCRDE - Posto de retorno**
 
@@ -138,20 +141,33 @@ Clicar em **CONSULTAR**.
 
 - **FCRDE - Abertura Manual**
 
-Casos abertos manualmente no STC devem sempre ser abertos na opção CN e encaminhar ao FCRDE posteriormente enviamos ao posto correspondente.
+Casos abertos manualmente no STC devem sempre ser abertos na opção CN e encaminhar ao FCRDE e segur o procedimento normal enviando ao posto correspondente.
 
 ![stc_opc_cn](stc_opc_cn.png)
 
 ![stc_abertura_fcrde](stc_abertura_fcrde.png)
 
-<hr>
+
+
 
 ## Missão Critica e Concentradores
 
 Cliente **NEOENERGIA** e todos alarmes **Missão Critica** e **Concentradores** se não conseguir TS enviar para o TRIAV ou posto correspondente.
 
+
+
+## Preventivas
+
+Não se trata nenhum **reparo** da gerencia premium como **preventiva** sem o consentimento do gestor tecnico.
+
+Devemos encerrar a preventiva e seguir com as tratativas.
+
 <hr>
 
 Cliente Sicoob não precisamos fazer TS, assim que alarmar podemos mandar para frente.
 
-<hr>
+
+
+
+
+
