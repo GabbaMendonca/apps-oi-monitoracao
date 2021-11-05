@@ -47,7 +47,7 @@ Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratat
 
 Na FLEX possuímos diversos alarmes, porem, só tratamos o alarme de link inoperante, o "**NODE STATUS - STATUS DOWN**".
 
-O restante dos alarmes como o "**INTEFACE | STATUS - INTERFACE DOWN**“ podemos ignorar.
+O restante dos alarmes como o "**INTEFACE \| STATUS - INTERFACE DOWN**“ podemos ignorar.
 
 ![alarme_de_interface](flex_alarme.png)
 
