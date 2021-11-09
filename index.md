@@ -1,5 +1,13 @@
 <link href="retro.css" rel="stylesheet" type="text/css" />
 
+#### Leia-me !
+
+Estou voluntariamente mantendo esse repositorio atualizado.
+
+Tem alguma atualização ? Mande no meu PV no Teams - Gabriel Silva Mendonça "Gabba"
+
+<hr>
+
 #### Divisão de Tarefas
 
 **Abra em outra janela do navegador ->**
