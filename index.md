@@ -1,6 +1,6 @@
 <link href="retro.css" rel="stylesheet" type="text/css" />
 
-#### Leia-me !
+## O repositorio e atualizações !
 
 Estou voluntariamente mantendo esse repositorio atualizado.
 
@@ -8,14 +8,14 @@ Tem alguma atualização ? Mande no meu PV no Teams - Gabriel Silva Mendonça "G
 
 <hr>
 
-#### Divisão de Tarefas
+#### Divisão de Tarefas -> Tarde
 
 **Abra em outra janela do navegador ->**
 [Clique aqui para ver a Divisão de Tarefas Monitoração - TARDE](https://monitoracao-oi.notion.site/8697d40f5e0a4c3fbdc83419643f24af?v=62eb5f45ccb74ebca2188829589540d8)
 
 <hr>
 
-#### Horário de Janta
+#### Horário de Janta -> Tarde
 
 O horário de janta ficara e critério da equipe decidir.
 Favor seguir as boas praticas abaixo.
@@ -26,7 +26,7 @@ Favor seguir as boas praticas abaixo.
 
 <hr>
 
-#### A Divisão das equipe
+#### A Divisão das equipe -> Tarde
 
 A divisão é feita na tentativa de balancear as equipes na quantidade de pessoas para não sobrecarregar ninguém.
 Se quiserem internamente dividir os cliente pode.
@@ -49,6 +49,26 @@ Lista de clientes com os links convite para os grupos no WhatsApp na rede intern
 Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratativas não precisamos responder.
 
 Se alguem tiver o link de algum grupo faltante favor mandar no meu PV no Teams - Gabriel Silva Mendonça "Gabba"
+
+## Clientes que não precisam aguardar o TS
+
+Os Clientes :
+
+- **Neoenergia**
+-  **Copasa**
+-  **Sicoob** 
+  
+**Não precisam aguardar o TS.** Podem ser encaminhados para triagem/campo.
+
+## Abertura de Reparos
+
+Sempre usar no momento da abertura essas opções:
+
+**ORIGEM: Interna**
+
+**CLASSIFICAÇÃO: Solicitação**
+
+![abertura_ars](Abertura_ARS.png)
 
 ## FLEX4
 
@@ -131,7 +151,7 @@ Em visão selecionar a opção operacional.
 7. Antes de mandar para frente, confirmar se o reparo estava na pendencia e se não tiver, retroagir para não ir para campo vencido.
 8. Reparos abertos pelo robo podem ser encaminhados para frente sem contato com o cliente.
 9. Verificar os casos novos para saber se o robo fez a abertura de algum caso critico ou concentrador.
-10. Cliente **Neoenergia** e **Sicoob** devem ser encaminhados para frente mesmo sem confirmação do TS.
+10. Cliente **Neoenergia**, **Copasa** e **Sicoob** devem ser encaminhados para frente mesmo sem confirmação do TS.
 
 - **FCRDE - Posto de retorno**
 
@@ -172,10 +192,14 @@ Não se trata nenhum **reparo** da gerencia premium como **preventiva** sem o co
 
 Devemos encerrar a preventiva e seguir com as tratativas.
 
-<hr>
 
-Cliente Sicoob não precisamos fazer TS, assim que alarmar podemos mandar para frente.
 
+## Testes Basicos
+
+Link para o Oi360 que possui alguns testes baisco.
+
+
+[Link Oi360 com testes basicos](http://10.111.26.12/proc_oi/category/especifico/geral/)
 
 
 
