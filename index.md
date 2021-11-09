@@ -36,7 +36,7 @@ São somente para a **ABERTURA** e **TS** são somente para isso.
 
 Lista de clientes com os links convite para os grupos no WhatsApp na rede interna da OI
 
-> //naspc01/CGS_Operacao$/Teams/Link%20Convite%20para%20os%20grupos%20do%20WhatsApp%20.pdf
+> file://naspc01/CGS_Operacao$/Teams/Link%20Convite%20para%20os%20grupos%20do%20WhatsApp%20.pdf
 
 Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratativas não precisamos responder.
 
