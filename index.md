@@ -34,12 +34,11 @@ Abra em uma guia separado do navegador, dentro do Teams esta dando erro.
 
 São somente para a **ABERTURA** e **TS** são somente para isso.
 
-[Lista de clientes com grupos no WhatsApp](https://gabbamendonca.github.io/apps-oi-monitoracao/grupos)
+[Lista de clientes com os links convite para os grupos no WhatsApp](//naspc01/CGS_Operacao$/Teams/Link%20Convite%20para%20os%20grupos%20do%20WhatsApp%20.pdf)
 
 Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratativas não precisamos responder.
 
-
-
+Se alguem tiver o link de algum grupo faltante favor mandar no meu PV no Teams - Gabriel Silva Mendonça "Gabba"
 
 ## FLEX4
 
