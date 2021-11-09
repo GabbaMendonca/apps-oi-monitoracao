@@ -113,15 +113,16 @@ Em visão selecionar a opção operacional.
 
 - **Gestão do Posto FCR**
 
-1. Testar se o link normalizou antes de mandar para frente.
+1. Testar o link para ver se normalizou antes de mandar para frente, caso esteja UP pedemos encerrar sem contato com o cliente como energia ou causa não detectada.
 2. Tentar contato com o cliente a cada 2h.
 3. Se tiver dificuldade devemos acionar o GT.
-4. Todos os casos no posto FCR precisam ser assumidos pelo colaborador que está tratando, isso faz parte da Gestão do posto e temos maior controle sobre as ações de cada um.
+4. Todos os casos no posto FCR precisam ser assumidos pelo colaborador que está tratando, isso faz parte da gestão do posto e temos maior controle sobre as ações de cada um.
 5. Alimentar informações no OI360 e ARS/STC. Todas ações do CGS nos chamados devem estar registradas no OI360 e ARS/STC.
 6. Todo caso em que for necessário encaminhar ao TRIAV, devemos tramitar para estação **RJO CAS**.
 7. Antes de mandar para frente, confirmar se o reparo estava na pendencia e se não tiver, retroagir para não ir para campo vencido.
 8. Reparos abertos pelo robo podem ser encaminhados para frente sem contato com o cliente.
-9. Veirificar os casos novos para saber se o robo fez a abertura de algum caso critico ou concentrador.
+9. Verificar os casos novos para saber se o robo fez a abertura de algum caso critico ou concentrador.
+10. Cliente **Neoenergia** e **Sicoob** devem ser encaminhados para frente mesmo sem confirmação do TS.
 
 - **FCRDE - Posto de retorno**
 
