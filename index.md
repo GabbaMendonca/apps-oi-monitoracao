@@ -44,7 +44,11 @@ São somente para a **ABERTURA** e **TS** são somente para isso.
 
 Lista de clientes com os links convite para os grupos no WhatsApp na rede interna da OI
 
+No Navegador :
 > file://naspc01/CGS_Operacao$/Teams/Link%20Convite%20para%20os%20grupos%20do%20WhatsApp%20.pdf
+
+No Explorer :
+> \\naspc01\CGS_Operacao$\Teams
 
 Os GT’s dos cliente estão nesse grupos, se o cliente perguntar sobre a tratativas não precisamos responder.
 
@@ -58,7 +62,10 @@ Os Clientes :
 -  **Copasa**
 -  **Sicoob** 
   
-**Não precisam aguardar o TS.** Podem ser encaminhados para triagem/campo.
+**Não precisam aguardar/solicitar o TS.** Alarmou pode encaminhar direto para triagem/campo.
+
+
+
 
 ## Abertura de Reparos
 
@@ -69,6 +76,9 @@ Sempre usar no momento da abertura essas opções:
 **CLASSIFICAÇÃO: Solicitação**
 
 ![abertura_ars](Abertura_ARS.png)
+
+
+
 
 ## FLEX4
 
